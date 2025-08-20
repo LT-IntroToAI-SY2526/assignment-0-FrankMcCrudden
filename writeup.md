@@ -10,15 +10,15 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is a distributed version control system, which is what github uses to give a website/hub where git can easlity be used in an online space.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Committing is adding chnages to a project and only you and your fellow teammates can see and comment on. Meanwhile when one pushes something =, it means that it will now be able to be seen by everyone that can see it.
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+They are just projects and files that can be moved and transffered around the github space. They can contain READMEs which can explain the use/functionality of the repository.
 
 ---
 
@@ -34,7 +34,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+How to spimplify very minor things in my life, but just to work on AI instead of just using it.
 
 ---
 
