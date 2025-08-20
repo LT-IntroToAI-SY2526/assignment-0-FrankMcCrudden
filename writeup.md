@@ -1,5 +1,5 @@
 # Assignment 0 Writeup
-
+This is an edit by Frank McCrudden on 8/20
 **Name:** [Your name here]  
 **Date:** [Today's date]
 
