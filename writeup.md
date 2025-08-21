@@ -14,7 +14,7 @@ Git is a distributed version control system, which is what github uses to give a
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-Committing is adding chnages to a project and only you and your fellow teammates can see and comment on. Meanwhile when one pushes something =, it means that it will now be able to be seen by everyone that can see it.
+Committing is adding chnages to a project and only you and your fellow teammates can see and comment on. Meanwhile when one pushes something, it means that it will now be able to be seen by everyone that can see it.
 
 **3. What is a repository and what does it contain?**
 
